@@ -26,6 +26,14 @@
 - obsługa błędów
 - dobranie typów danych do wartości zmiennych
 ## Etap 2 Ekstrakcja wszystkich opinii o produkcie z pojedynczej strony
--  
+- zapis składowych pojedynczej opinii do słownika
+- zefiniowanie listy do przechowywania opiini o danym produkcie
+- dodanie pętli, która wykonuje operację ekstrakcji dla wszystkich opinii pobranych z pojedynczej strony
 
 ## Etap 3 Ekstrakcja wszystkich opinii o produkcie w wszystkich stron
+- dodanie pętli, która pobiera i analizuje kolejne strony z opiniami o produkcie
+- dodanie możliwości podania kodu produktu "z klawiatury"
+- dodanie zapisu wszytkich opinii o produkcie do pliku .json
+
+## Etap 4 Refactoring
+- 

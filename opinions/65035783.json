@@ -1,0 +1,807 @@
+[
+    {
+        "opinion_id": "13595788",
+        "author": "l...t",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Trudno ocenić tą grę obiektywnie, więc nawet nie będę próbował. Dla gra jest świetna choć wciąż wymaga szlifu. Na plus grafika,fabuła, grywalność, wykreowany świat i muzyka... Jednym słowem klimat! Niestety na minus bugi, głuche, może nie uniemożliwiające granie ale zdecydowanie irytujące oraz bardzo kiepskie AI NPCòw. Błędy można naprawić ale klimatu podrobić się nie da w żaden sposób.",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-16 23:13:08",
+        "purchase_date": "2020-11-29 19:58:59",
+        "useful": 6,
+        "useless": 2
+    },
+    {
+        "opinion_id": "13550487",
+        "author": "1...1",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "***** gra.",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-10 17:27:23",
+        "purchase_date": "2020-12-07 09:39:57",
+        "useful": 2,
+        "useless": 4
+    },
+    {
+        "opinion_id": "14186482",
+        "author": "m...r",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Gra, wbrew temu co wszyscy o niej mówią, ma swój urok. Ten niepowtarzalny klimat wciągnął mnie już na kilka dobrych godzin. Niestety irytujące są niektóre błędy, które skutecznie potrafią uprzykrzyć życie. Mam nadzieję, że z czasem uda się wyeliminować wszystkie bolączki tej produkcji. Szkoda, że gra została za szybko wydana.",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "kenau",
+            "model jazdy",
+            "rives"
+        ],
+        "cons": [
+            "jakość",
+            "nieznane wymagania"
+        ],
+        "purchased": true,
+        "submit_date": "2021-03-26 21:40:13",
+        "purchase_date": "2021-03-16 22:29:10",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13669008",
+        "author": "Paweł",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Jeśli ktoś chce zagrać (i ma dobry PC lub nową konsolę) to radzę nie czytać opinii. Gra po hotfixach praktycznie nie ma bugów i sama rozgrywka to jest rewelacja. Fabuła wciąga, dużo ciekawych misji pobocznych, bardzo fajnie zrobione miasto, każdy randomowy NPC ma unikalny styl. Z minusów AI policji.",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-29 10:36:13",
+        "purchase_date": "2020-12-09 11:28:01",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13636127",
+        "author": "o...2",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Gra super , ludzie płaczą ze gra jest brzydka i się wiesza bo kupują to na ps4 czy xone , te konsole maja 7 lat i jak ktoś mówi ze gry na tym są ładne to tylko exy a nie multiplatformowe . Gra wyglada pięknie na Xbox series x i PC",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-23 10:37:03",
+        "purchase_date": "2020-11-24 17:58:22",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "14103806",
+        "author": "r...7",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Cyberpunk 2077 na One z aktualizacją na X - tak powinien wyglądać opis, bo na samego X nie ma tej gry. Cena z dostawą 155 !!! lepszej oferty nie znalazłem.",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-03-12 10:43:22",
+        "purchase_date": "2021-03-09 05:35:35",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "14183506",
+        "author": "n...7",
+        "recommendation": null,
+        "stars": 3.0,
+        "content": "Zamówiona jako prezent dla syna. Syn zadowolony jak dostał, ale szybko wrócił do GTA bo tutaj fabuła chyba trochę nudna jak dla młodego człowieka. Z tego co widzę za dużo dialogu względem gry. Może kiedyś sam zagram i  zmienię zdanie.",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-03-26 07:38:11",
+        "purchase_date": "2021-03-05 10:24:59",
+        "useful": 0,
+        "useless": 1
+    },
+    {
+        "opinion_id": "13549186",
+        "author": "b...3",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "Gierka fajna gram na xbox series x grafika przeciętna ale mają w planach ulepszyć grafikę pod xbox series x myślę że będzie ok",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-10 14:05:57",
+        "purchase_date": "2020-12-02 08:13:45",
+        "useful": 1,
+        "useless": 4
+    },
+    {
+        "opinion_id": "13681988",
+        "author": "k...i",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "świetna gra, jednak ludzie oczekiwali zbyt wiele przez co widzę sporo kiepskich opinii",
+        "pros": [
+            "fabuła",
+            "grywalność"
+        ],
+        "cons": [
+            "grafika",
+            "jakość"
+        ],
+        "purchased": true,
+        "submit_date": "2020-12-30 15:58:07",
+        "purchase_date": "2020-12-09 15:05:57",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13671158",
+        "author": "a...a",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Gra spełnia oczekiwania i jest jak najbardziej zasługująca na 5 gwiazdek",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość",
+            "kenau",
+            "nieznane wymagania",
+            "przesunięta data premiery",
+            "rives"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-29 13:56:47",
+        "purchase_date": "2020-12-24 12:32:05",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13594229",
+        "author": "m...z",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Premiera była 10.12.20 i tego dnia gra dotarł do paczkomatu.",
+        "pros": [
+            "fabuła"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-16 21:16:15",
+        "purchase_date": "2020-11-15 21:38:39",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "14187359",
+        "author": "n...6",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Super wykonanie. Na Xbox series X gra chodzi bardzo dobrze.",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość",
+            "kenau",
+            "model jazdy",
+            "nieznane wymagania",
+            "rives"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-03-27 07:24:53",
+        "purchase_date": "2021-03-16 11:27:54",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "14187894",
+        "author": "B...l",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Przyjemna gra. Model strzelania trochę męczący.",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-03-27 09:22:50",
+        "purchase_date": "2021-03-12 09:18:42",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "14232076",
+        "author": "s...8",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Bardzo dobra grafika i bardzo dobrze się gra",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-04-05 20:00:51",
+        "purchase_date": "2021-03-26 11:02:54",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13885736",
+        "author": "l...5",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "bardzo dobra gra z małymi problemami",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-02-02 23:07:19",
+        "purchase_date": "2021-01-30 17:03:06",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13577479",
+        "author": "j...i",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Fajna fabuła, wciągający rpg. Tego oczekiwałem",
+        "pros": [
+            "fabuła",
+            "grywalność"
+        ],
+        "cons": [
+            "jakość"
+        ],
+        "purchased": true,
+        "submit_date": "2020-12-15 07:47:27",
+        "purchase_date": "2020-11-26 09:17:22",
+        "useful": 0,
+        "useless": 1
+    },
+    {
+        "opinion_id": "13843264",
+        "author": "h...s",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Gra Polska ... bardzo dobra Polecam",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-01-26 21:51:02",
+        "purchase_date": "2021-01-09 08:05:22",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13564841",
+        "author": "m...6",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "Wciągająca fabuła, świetni bohaterowie i teb polski lektor robi robote.",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-12 11:49:15",
+        "purchase_date": "2020-12-01 16:00:25",
+        "useful": 0,
+        "useless": 4
+    },
+    {
+        "opinion_id": "14004368",
+        "author": "g...n",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super klimat bravo dla FIRMY!",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-02-23 17:51:03",
+        "purchase_date": "2021-01-23 23:02:14",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13630730",
+        "author": "t...l",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Jeszcze nie otrzymałem towaru",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość",
+            "kenau",
+            "rives"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-22 17:44:27",
+        "purchase_date": "2020-11-21 13:48:25",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13576293",
+        "author": "p...k",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Nie wiem, na co ludzie narzekają.",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość",
+            "przesunięta data premiery"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-14 22:45:34",
+        "purchase_date": "2020-12-03 11:54:25",
+        "useful": 0,
+        "useless": 1
+    },
+    {
+        "opinion_id": "14104040",
+        "author": "t...k",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Gra spełnia oczekiwania",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-03-12 11:07:42",
+        "purchase_date": "2021-03-09 15:25:14",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13916610",
+        "author": "m...z",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "W trakcie testowania",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-02-08 11:16:49",
+        "purchase_date": "2021-02-03 11:25:27",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13744181",
+        "author": "a...0",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Świetna gra polecam",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-01-10 19:59:38",
+        "purchase_date": "2020-12-11 09:24:42",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13637471",
+        "author": "u...y",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Niestety zwrot",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-23 12:53:27",
+        "purchase_date": "2020-12-06 10:24:33",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "14307894",
+        "author": "m...a",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Świetna gra",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-04-16 21:34:21",
+        "purchase_date": "2021-04-06 16:03:48",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13728372",
+        "author": "p...k",
+        "recommendation": null,
+        "stars": 3.5,
+        "content": "W porządku",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-01-07 13:49:15",
+        "purchase_date": "2021-01-02 09:31:51",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13598316",
+        "author": "m...2",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "Polecam",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-17 09:35:51",
+        "purchase_date": "2020-12-08 11:03:21",
+        "useful": 1,
+        "useless": 1
+    },
+    {
+        "opinion_id": "13651100",
+        "author": "r...a",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "👌👌",
+        "pros": [
+            "fabuła",
+            "grywalność"
+        ],
+        "cons": [
+            "grafika",
+            "jakość"
+        ],
+        "purchased": true,
+        "submit_date": "2020-12-26 09:58:53",
+        "purchase_date": "2020-12-16 18:01:56",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13553493",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Wszystko super.",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-10 22:12:12",
+        "purchase_date": "2020-12-01 16:48:40",
+        "useful": 0,
+        "useless": 1
+    },
+    {
+        "opinion_id": "13630869",
+        "author": "p...i",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Kocham",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-22 18:11:47",
+        "purchase_date": "2020-11-21 14:18:31",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "14032446",
+        "author": "s...a",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2021-02-27 19:05:45",
+        "purchase_date": "2021-02-19 11:08:13",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13611183",
+        "author": "p...l",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-18 20:44:17",
+        "purchase_date": "2020-12-15 08:02:52",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13689333",
+        "author": "p...a",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-31 10:43:37",
+        "purchase_date": "2020-12-08 15:42:47",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13557264",
+        "author": "p...i",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Nie zawiodłem się!",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-11 11:54:33",
+        "purchase_date": "2020-11-25 09:42:55",
+        "useful": 0,
+        "useless": 2
+    },
+    {
+        "opinion_id": "13562952",
+        "author": "m...5",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "👍🏻👍🏻",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-11 22:45:34",
+        "purchase_date": "2020-12-01 09:19:59",
+        "useful": 0,
+        "useless": 1
+    },
+    {
+        "opinion_id": "13578458",
+        "author": "t...a",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-15 10:24:30",
+        "purchase_date": "2020-12-09 09:38:38",
+        "useful": 0,
+        "useless": 1
+    },
+    {
+        "opinion_id": "13651110",
+        "author": "k...4",
+        "recommendation": null,
+        "stars": 3.0,
+        "content": "Ciekawy pomysł i mnóstwo błędów",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-12-26 09:59:42",
+        "purchase_date": "2020-12-08 14:31:07",
+        "useful": 0,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13564709",
+        "author": "m...2",
+        "recommendation": false,
+        "stars": 2.0,
+        "content": "Nie dopracowana jakość grafiki na XBOX One oraz dużo błędów",
+        "pros": [
+            "fabuła",
+            "grywalność",
+            "kenau",
+            "nieznane wymagania",
+            "przesunięta data premiery",
+            "rives"
+        ],
+        "cons": [
+            "grafika",
+            "jakość"
+        ],
+        "purchased": true,
+        "submit_date": "2020-12-12 11:08:17",
+        "purchase_date": "2020-11-29 13:15:46",
+        "useful": 4,
+        "useless": 0
+    },
+    {
+        "opinion_id": "13727310",
+        "author": "Alina",
+        "recommendation": false,
+        "stars": 1.5,
+        "content": "Rozczarowała mnie fabuła gry",
+        "pros": [
+            "grafika",
+            "grywalność"
+        ],
+        "cons": [
+            "fabuła"
+        ],
+        "purchased": true,
+        "submit_date": "2021-01-07 12:05:05",
+        "purchase_date": "2020-12-19 15:57:19",
+        "useful": 1,
+        "useless": 0
+    },
+    {
+        "opinion_id": "12610851",
+        "author": "t...4",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Zapowiada się ciekawie.",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-06-08 19:23:27",
+        "purchase_date": "2020-05-27 14:32:08",
+        "useful": 0,
+        "useless": 16
+    },
+    {
+        "opinion_id": "13362481",
+        "author": "a...1",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-11-12 09:32:04",
+        "purchase_date": "2020-10-26 16:07:40",
+        "useful": 0,
+        "useless": 15
+    },
+    {
+        "opinion_id": "13097066",
+        "author": "k...m",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "🦾🦾",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność",
+            "jakość"
+        ],
+        "cons": [],
+        "purchased": true,
+        "submit_date": "2020-09-17 20:27:30",
+        "purchase_date": "2020-09-14 18:51:15",
+        "useful": 0,
+        "useless": 16
+    },
+    {
+        "opinion_id": "13496983",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "Jak dla mnie postacie sztuczne papierowe. Grafika jest na poziomie Wiedźmina, ale szału nie robi. Plusem jest to, że z RayTracingiem włączonym na 4K i max detalach na moim RTX 3080 idzie płynnie, tu nie mam zastrzeżeń. Nie wiem jak na słabszych kartach.\nOczywiście, jeszcze nie przeszedłem całej gry, ale rozgrywka to typowy RPG, nie ma tu raczej nic odkrywczego. Daję cztery gwiazdki tylko ze względu na rozdmuchane oczekiwania. Tak, to może bym dał 4.5.",
+        "pros": [],
+        "cons": [],
+        "purchased": false,
+        "submit_date": "2020-12-03 13:49:35",
+        "purchase_date": null,
+        "useful": 2,
+        "useless": 13
+    },
+    {
+        "opinion_id": "13609488",
+        "author": "Michael",
+        "recommendation": false,
+        "stars": 1.0,
+        "content": "Kiepska",
+        "pros": [
+            "fabuła",
+            "grafika"
+        ],
+        "cons": [
+            "grywalność",
+            "jakość"
+        ],
+        "purchased": true,
+        "submit_date": "2020-12-18 17:44:32",
+        "purchase_date": "2020-12-14 15:32:41",
+        "useful": 2,
+        "useless": 3
+    },
+    {
+        "opinion_id": "13557651",
+        "author": "Użytkownik Ceneo",
+        "recommendation": false,
+        "stars": 2.0,
+        "content": "Niestety w grze występuje taki błąd: *****\r\nNie można ukończyć misji. Ktoś wie jak to obejść?",
+        "pros": [
+            "fabuła",
+            "grafika",
+            "grywalność"
+        ],
+        "cons": [
+            "jakość"
+        ],
+        "purchased": false,
+        "submit_date": "2020-12-11 12:22:36",
+        "purchase_date": null,
+        "useful": 1,
+        "useless": 0
+    }
+]
