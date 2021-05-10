@@ -36,4 +36,17 @@
 - dodanie zapisu wszytkich opinii o produkcie do pliku .json
 
 ## Etap 4 Refactoring
-- 
+- zdefiniowanie funkcji do ekstrakcji pojedynczego elementu opinii
+- przygotowanie słownika opisującego składowe opinii wraz z ich selektorami
+- tworzenie słownika reprezentujacego pojedynczą opinię przy wykorzystaniu wyrażenia słownikowego (dictionary comprehension)
+## Etap 5 Analiza statystyczna zbioru opinii o produkcie
+- wyświetlenie listy produktów, dla których pobrane zostały opinie
+- wczytanie opinii o wskazanym produkcie do obiektu DataFrame
+- obliczenie podstawowych statystyk:
+    - średnia ocena produktu
+    - liczba opinii o produkcie
+    - liczba opinii dla których podana została liczba zalet
+    - liczba opinii dla których podana została liczba wad
+## Etap 6 Rysowanie wykresów opartych o dane z pobranych opinii
+- wykres słupkowy/kolumnowy obrazujący czestość wystepowania opinii z poszczególnymi ocenami
+- wykres kołowy obrazujący udział poszczególnych rodzajów rekomendacji w zbiorze opinii
